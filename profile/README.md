@@ -3,7 +3,7 @@
 <!-- ======================= -->
 
 <p align="center">
-  <img src="assets/banner.png" alt="AlWahab Banner" width="100%">
+  <img src="profile/assets/banner.png" alt="AlWahab Banner" width="100%">
 </p>
 
 <h1 align="center">

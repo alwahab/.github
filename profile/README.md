@@ -3,7 +3,7 @@
 <!-- ======================= -->
 
 <p align="center">
-  <img src="profile/assets/banner.png" alt="AlWahab Banner" width="100%">
+  <img src="[profile/assets/banner.png](https://github.com/alwahab/.github/blob/9fae4619d74eea81bedb899aa8f5e15a3218a37d/profile/assets/banner.png)" alt="AlWahab Banner" width="100%">
 </p>
 
 <h1 align="center">

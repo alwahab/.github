@@ -1,104 +1,104 @@
 <!-- ======================= -->
-<!--       ALWAHAB README    -->
+<!--      ALWAHAB README FR  -->
 <!-- ======================= -->
 
 <p align="center">
-  <img src="/profile/assets/banner.png" alt="AlWahab Banner" width="100%">
+  <img src="/profile/assets/banner.png" alt="Bannière AlWahab" width="100%">
 </p>
 
 <h1 align="center">
-  Hi 👋, I'm AlWahab
+Bonjour 👋, je suis AlWahab
 </h1>
 
 <h3 align="center">
-Electronics Engineer • Embedded Systems Engineer • Full-Stack Engineer • Maker
+Ingénieur en Électronique • Ingénieur Systèmes Embarqués • Ingénieur Full-Stack • Ingénieur Produit
 </h3>
 
 <p align="center">
 
-Building intelligent systems that combine electronics, embedded software, artificial intelligence, and cloud technologies.
+Je conçois des systèmes intelligents qui réunissent l'électronique, les systèmes embarqués, l'intelligence artificielle et les technologies cloud.
 
 </p>
 
 ---
 
-# 🚀 About Me
+# 🚀 À propos de moi
 
-I design and build intelligent hardware and software systems—from custom PCB design and embedded firmware to scalable cloud platforms and AI-powered applications.
+Je conçois et développe des systèmes matériels et logiciels intelligents, allant de la conception de cartes électroniques (PCB) et du développement de firmwares embarqués jusqu'aux plateformes cloud évolutives et aux applications intégrant l'intelligence artificielle.
 
-My passion lies in creating complete engineering solutions that bridge:
+Ma passion est de créer des solutions d'ingénierie complètes qui relient :
 
-- ⚡ Electronics
-- 🔧 Embedded Systems
-- 🤖 Artificial Intelligence
+- ⚡ Électronique
+- 🔧 Systèmes embarqués
+- 🤖 Intelligence artificielle
 - ☁️ Cloud Computing
-- 📱 Mobile Applications
-- 🌐 Full-Stack Development
+- 📱 Applications mobiles
+- 🌐 Développement Full-Stack
 
-I believe engineering is not simply writing software or designing circuits.
+Pour moi, l'ingénierie ne consiste pas uniquement à écrire du code ou à concevoir des circuits.
 
-**Engineering is building complete systems.**
+**L'ingénierie consiste à concevoir des systèmes complets.**
 
 ---
 
-# 🎯 Current Focus
+# 🎯 Domaines de spécialisation
 
-- Intelligent Electronic Diagnostic Systems
-- Embedded Systems (STM32 & ESP32)
-- Industrial IoT
-- AI for Electronics
+- Systèmes de diagnostic électronique intelligents
+- Systèmes embarqués (STM32 & ESP32)
+- Internet des Objets Industriel (IIoT)
+- Intelligence artificielle appliquée à l'électronique
 - TinyML
-- Computer Vision
-- Embedded Linux
-- Linux Kernel Engineering
-- PCB Design
-- Signal Processing
-- Full-Stack Development
-- Cloud Platforms
+- Vision par ordinateur
+- Linux embarqué
+- Développement du noyau Linux
+- Conception de PCB
+- Traitement du signal
+- Développement Full-Stack
+- Architectures Cloud
 
 ---
 
-# 🚀 Flagship Project
+# 🚀 Projet phare
 
 # Chendytronics Smart Diagnostic Tool
 
-A professional AI-powered handheld diagnostic platform for:
+Une plateforme professionnelle de diagnostic électronique assistée par intelligence artificielle destinée à :
 
 - Smartphones
-- Tablets
-- Laptop Motherboards
-- Embedded Systems
-- Industrial Electronics
+- Tablettes
+- Cartes mères d'ordinateurs portables
+- Systèmes embarqués
+- Équipements électroniques industriels
 
-### Features
+### Fonctionnalités
 
-✅ Intelligent Multimeter
+✅ Multimètre intelligent
 
-✅ Oscilloscope
+✅ Oscilloscope intégré
 
-✅ Thermal Imaging
+✅ Imagerie thermique
 
-✅ AI Component Recognition
+✅ Reconnaissance automatique des composants par IA
 
-✅ Computer Vision
+✅ Vision par ordinateur
 
-✅ Smart Power Injection (0–30V / 10A)
+✅ Injection d'alimentation intelligente (0–30V / 10A)
 
-✅ Embedded Diagnostics
+✅ Diagnostic embarqué
 
-✅ OTA Updates
+✅ Mises à jour OTA
 
-✅ Mobile Application
+✅ Application mobile
 
-✅ Cloud Dashboard
+✅ Tableau de bord Cloud
 
-✅ AI Repair Assistant
+✅ Assistant intelligent pour la réparation électronique
 
 ---
 
-# 💻 Tech Stack
+# 💻 Technologies
 
-## Languages
+## Langages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
@@ -110,7 +110,7 @@ A professional AI-powered handheld diagnostic platform for:
 
 ---
 
-## Embedded
+## Systèmes embarqués
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
@@ -145,7 +145,7 @@ A professional AI-powered handheld diagnostic platform for:
 
 ---
 
-## AI
+## Intelligence artificielle
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
@@ -163,44 +163,43 @@ A professional AI-powered handheld diagnostic platform for:
 
 ---
 
-# 📚 Currently Learning
+# 📚 En apprentissage permanent
 
-- Linux Kernel Engineering
-- Advanced Embedded Linux
-- FPGA Design
-- High-Speed PCB Design
-- TinyML Optimization
-- Industrial Communication Protocols
-- Computer Vision
-- AI Hardware Acceleration
-
----
-
-# 🌍 Engineering Philosophy
-
-> Build products, not just projects.
-
-> Build systems, not just software.
-
-> Build solutions that improve people's lives.
+- Développement du noyau Linux
+- Linux embarqué avancé
+- Conception FPGA
+- PCB haute vitesse
+- Optimisation TinyML
+- Protocoles de communication industriels
+- Vision par ordinateur
+- Accélération matérielle pour l'IA
 
 ---
 
-# 🤝 Open to Collaborate
+# 🌍 Philosophie d'ingénierie
 
-- Embedded Systems
-- AI
-- Industrial IoT
-- PCB Design
-- Electronics
-- Open Source
+> Concevoir des produits, pas seulement des projets.
+
+> Concevoir des systèmes, pas seulement des logiciels.
+
+> Développer des technologies qui apportent une valeur réelle.
+
+---
+
+# 🤝 Ouvert aux collaborations
+
+- Systèmes embarqués
+- Intelligence artificielle
+- IIoT
+- Conception de PCB
+- Électronique
+- Logiciels Open Source
 - Linux
-- Research Projects
+- Recherche et innovation
 
 ---
 
-
-# 🔥 GitHub Streak
+# 🔥 Activité GitHub
 
 <p align="center">
 
@@ -210,16 +209,16 @@ A professional AI-powered handheld diagnostic platform for:
 
 ---
 
-# 📫 Connect
+# 📫 Me contacter
 
-- GitHub: https://github.com/AlWahab
-- LinkedIn: *(Coming Soon)*
-- Portfolio: *(Coming Soon)*
+- GitHub : https://github.com/AlWahab
+- LinkedIn : *(Bientôt disponible)*
+- Portfolio : *(En cours de développement)*
 
 ---
 
 <h2 align="center">
 
-"Turning ideas into intelligent systems."
+« Concevoir aujourd'hui les systèmes intelligents de demain. »
 
 </h2>

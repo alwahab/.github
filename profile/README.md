@@ -208,13 +208,13 @@ Une plateforme professionnelle de diagnostic électronique assistée par intelli
 </p>
 
 ---
-
+<!--
 # 📫 Me contacter
 
 - GitHub : https://github.com/AlWahab
 - LinkedIn : *(Bientôt disponible)*
 - Portfolio : *(En cours de développement)*
-
+-->
 ---
 
 <h2 align="center">
